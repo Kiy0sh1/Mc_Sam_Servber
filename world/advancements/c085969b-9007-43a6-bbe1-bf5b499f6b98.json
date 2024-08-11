@@ -3628,5 +3628,17 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sandstone_smithing": {
+    "criteria": {
+      "has_sandstone": "2024-08-09 17:07:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2024-08-09 17:18:04 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
